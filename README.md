@@ -1,5 +1,7 @@
 # Vue Country and Channel Selector
 
+<img alt="Vue Country and Channel Selector' cover" src="./cover.png">
+
 ## Introduction
 
 The Vue Country and Channel Selector is a JavaScript application that provides a user interface for selecting continents, countries, and channels. It leverages Vue.js for reactive components and Font Awesome for icons. The application dynamically fetches and displays channels based on the user's selection of continent and country.
